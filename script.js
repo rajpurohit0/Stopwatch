@@ -13,7 +13,7 @@ function stop(){
     timer=false;
 }
 
-function reser(){
+function reset(){
     timer=false;
     hr=0;
     min=0;
