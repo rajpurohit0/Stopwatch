@@ -26,7 +26,7 @@ function reser(){
     document.getElementById("count"),innerHTML="00";
 }
 
-finction stopwatch(){
+function stopwatch(){
     if(timer==true){
         count+=1;
 
